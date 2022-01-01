@@ -12,4 +12,14 @@ Created Github account, and logged in. https://youtu.be/QUtk-Uuq9nE
 
 created a repository in Github. https://youtu.be/WfhRyz3Wf4o
 
-Time taken: 1.5 hours
+Time taken: 2 hours
+
+January 1st
+
+Understood how to host a website using  Github pages.
+        
+   https://youtu.be/alMTZlYdIl4
+         
+  https://youtu.be/CIbVj5FSZ7Q    
+  
+  Time taken: 1.5 hours
