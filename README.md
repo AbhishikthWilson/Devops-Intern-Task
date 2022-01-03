@@ -23,3 +23,17 @@ Understood how to host a website using  Github pages.
   https://youtu.be/CIbVj5FSZ7Q    
   
   Time taken: 1.5 hours
+
+January 2nd
+
+Took a break.
+
+January 3rd
+
+Watched videos about text editors. Downloaded and installed Brackets source code editor, and tried working on some code.
+
+https://youtu.be/alMTZlYdIl4
+
+https://youtu.be/GN0txxeT46A
+
+Total time spent: 3 hours
