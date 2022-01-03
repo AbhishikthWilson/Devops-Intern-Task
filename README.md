@@ -12,7 +12,7 @@ Created Github account, and logged in. https://youtu.be/QUtk-Uuq9nE
 
 created a repository in Github. https://youtu.be/WfhRyz3Wf4o
 
-Time taken: 2 hours
+Time taken: 3 hours
 
 January 1st
 
@@ -36,4 +36,4 @@ https://youtu.be/alMTZlYdIl4
 
 https://youtu.be/GN0txxeT46A
 
-Total time spent: 3 hours
+Total time spent: 2 hours
